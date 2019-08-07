@@ -1,0 +1,14 @@
+C:\Projects\NetCore Workspace\RavePayments\TestConsoleApp\obj\Debug\netcoreapp2.1\TestConsoleApp.csprojAssemblyReference.cache
+C:\Projects\NetCore Workspace\RavePayments\TestConsoleApp\obj\Debug\netcoreapp2.1\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Projects\NetCore Workspace\RavePayments\TestConsoleApp\obj\Debug\netcoreapp2.1\TestConsoleApp.AssemblyInfoInputs.cache
+C:\Projects\NetCore Workspace\RavePayments\TestConsoleApp\obj\Debug\netcoreapp2.1\TestConsoleApp.AssemblyInfo.cs
+C:\Projects\NetCore Workspace\RavePayments\TestConsoleApp\bin\Debug\netcoreapp2.1\TestConsoleApp.deps.json
+C:\Projects\NetCore Workspace\RavePayments\TestConsoleApp\bin\Debug\netcoreapp2.1\TestConsoleApp.runtimeconfig.json
+C:\Projects\NetCore Workspace\RavePayments\TestConsoleApp\bin\Debug\netcoreapp2.1\TestConsoleApp.runtimeconfig.dev.json
+C:\Projects\NetCore Workspace\RavePayments\TestConsoleApp\bin\Debug\netcoreapp2.1\TestConsoleApp.dll
+C:\Projects\NetCore Workspace\RavePayments\TestConsoleApp\bin\Debug\netcoreapp2.1\TestConsoleApp.pdb
+C:\Projects\NetCore Workspace\RavePayments\TestConsoleApp\bin\Debug\netcoreapp2.1\RavePayments.dll
+C:\Projects\NetCore Workspace\RavePayments\TestConsoleApp\bin\Debug\netcoreapp2.1\RavePayments.pdb
+C:\Projects\NetCore Workspace\RavePayments\TestConsoleApp\obj\Debug\netcoreapp2.1\TestConsoleApp.csproj.CopyComplete
+C:\Projects\NetCore Workspace\RavePayments\TestConsoleApp\obj\Debug\netcoreapp2.1\TestConsoleApp.dll
+C:\Projects\NetCore Workspace\RavePayments\TestConsoleApp\obj\Debug\netcoreapp2.1\TestConsoleApp.pdb
