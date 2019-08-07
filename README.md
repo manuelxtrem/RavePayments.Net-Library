@@ -1,4 +1,5 @@
-# RavePayments.Net-Library
+# Introduction
+RavePayments .Net Library (C#)
 A Library for Flutterwave Rave Payments (Focuses on Card Payments and Mobile Money (GH))
 
 # Demo
@@ -22,7 +23,7 @@ For testing purposes, you will have to add real data to the RequestPayload model
 ```
 
 # Obtaining your API Keys
-Your API keys are available in the Dashboard by navigating to `Settings - > API`.
+Your API keys are available in the Dashboard by logging in to Rave and navigating to `Settings - > API`.
 
 # API References or Documentation
 Check out Rave's API references for more info
